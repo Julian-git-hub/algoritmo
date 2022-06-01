@@ -1,5 +1,24 @@
 h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     color: brown;
+    background-color: black;
+}
+
+body{
+    background-color: brown;
+}
+
+.con {
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
+
+.imagen {
+    align-items: center;
+    margin-right: 500px;
+    margin-left: 400px;
+
 }
